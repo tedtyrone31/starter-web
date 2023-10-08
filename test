@@ -1,0 +1,77 @@
+[33mcommit 7328293569d51ea2bbde2f4b2d12978580d08ed7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 16:29:27 2023 +0800
+
+    add hipster.txt
+
+[33mcommit 8afd31c1598b5878ef19fc0aaf371a4449ba34ef[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 16:24:54 2023 +0800
+
+    deleted
+
+[33mcommit 2c3b486889c62fdd755d21e4b1f2b5aea2489c77[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 16:23:59 2023 +0800
+
+    deleted
+
+[33mcommit d6119d68dfc42cc973ec28116aca075c9513be11[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 16:18:44 2023 +0800
+
+    moved file
+
+[33mcommit d64d36ce0c13e9d3f4f704b19de6a85626d60aee[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 14:55:12 2023 +0800
+
+    moved file
+
+[33mcommit ea1960353a8477d2f9ee7a84dfda2eb001a3960d[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 14:51:32 2023 +0800
+
+    renamed level2 file
+
+[33mcommit 26274c9c04a5499a0093efa2a2aa6a8bbde9cf13[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 14:48:20 2023 +0800
+
+    added error_handler/renamed level3 file
+
+[33mcommit 1a19e5bfb9b80a85776b3758f3b95e89ca090de2[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 02:54:16 2023 +0800
+
+    adding several files recursively
+
+[33mcommit 9cb554da7e1d23576a534376724ee94026ba50ac[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 02:43:36 2023 +0800
+
+    more text
+
+[33mcommit b94689c1aaddf6d6cf87ad2ca70dea2a3fc0ae37[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 02:10:10 2023 +0800
+
+    adding new file
+
+[33mcommit c94c7532ca9bfb4c68400d37dd680cd0ee5d01f1[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 01:51:49 2023 +0800
+
+    adding more ipsum text
+
+[33mcommit c8a78110d7f013497e9f3dc567677c135c0ca85d[m
+Author: DESKTOP-3JCH8C5\PC101 <tedtyrone31@yahoo.com>
+Date:   Sun Oct 8 01:26:57 2023 +0800
+
+    HIPSTER.txt created
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
