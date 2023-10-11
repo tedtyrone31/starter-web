@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Ted Tyrone Bolanio tedtyrone31@gmail.com
 # THANKS
 
     <name>
