@@ -7,6 +7,7 @@
 # THANKS
 
     thanks but no thanks
+    another text
 
 # TECHNOLOGY COLOPHON
 
